@@ -1,7 +1,6 @@
 // this file contains the main logic for the Jeopardy game web page
 // creation date: July 12th, 2017
 // author: Edgar Mendez
-//
 
 $(function() {
 console.log('linked');
